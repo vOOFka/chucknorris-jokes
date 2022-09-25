@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "pinlayout",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/layoutBox/PinLayout.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "55c50ecdfadee9c7736a53b8942b6c764cf3dcab"
+      }
+    }
+  ],
+  "version" : 2
+}
